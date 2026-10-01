@@ -1,0 +1,11 @@
+Metric,Value
+Original Number of Observations,123
+Duplicate Rows Detected,3
+Final Number of Observations,120
+Missing Values Detected,18
+Missing Values Remaining After Preprocessing,0
+Invalid Age Values Identified,2
+Invalid Satisfaction Scores Identified,2
+Annual Income Outliers,1
+Average Session Minutes Outliers,3
+Total Spend Last 6M Outliers,2
