@@ -1,0 +1,4 @@
+Scenario,Advertising_Spend,Website_Visits,Discount_Rate_Pct,Sales_Staff_Hours,Customer_Count,Predicted_Sales_Revenue
+A,20000.00,30000.00,8.00,650.00,1000.00,239218.11
+B,35000.00,40000.00,10.00,750.00,1200.00,306320.75
+C,50000.00,50000.00,12.00,850.00,1400.00,373423.40
